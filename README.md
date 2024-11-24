@@ -1,1 +1,10 @@
-# hokseng.github.io
+
+
+### Education
+Computer Science, M1
+
+### Work Experience
+Data scientist 
+
+
+### Project
