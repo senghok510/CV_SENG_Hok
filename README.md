@@ -11,9 +11,8 @@
 
 
 ### Projects:
-Conduct a data science project on a big olympic game data set using Machine Learning. Utilization of Explanatory Machine Learning and Deep Learning 
+Conduct a data science project on a big olympic game data set using Machine Learning. Utilization of Explanatory Machine Learning and Deep Learning
 to optimize an appropriate model.
+hello, my name is
 
 ![Optimization](/assets/img/optimization.png)
-
-
