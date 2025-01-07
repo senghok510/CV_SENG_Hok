@@ -1,6 +1,6 @@
 # Second-year student at Ecole polytechnique
 
-#### Technical Skills: Python (PyTorch, Pandas), R, Java, Git/GitHub, VS Code, \LaTeX
+
 
 ## Education
 - **M1, Computer Science** | Ecole Polytechnique (_April 2024 - Present_)
@@ -40,6 +40,15 @@
 ## Hobbies
 - **Sports:** Soccer - Playing three times a week since 2023  
 - **Chess:** Regularly playing in free time for one year
+
+### Technical Skills
+- Python (PyTorch, Pandas)
+- R
+- Java
+- Git/GitHub
+- VS Code
+- \LaTeX
+
 
 
 
