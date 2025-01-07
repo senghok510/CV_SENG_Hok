@@ -41,13 +41,6 @@
 - **Sports:** Soccer - Playing three times a week since 2023  
 - **Chess:** Regularly playing in free time for one year
 
-### Technical Skills
-- Python (PyTorch, Pandas)
-- R
-- Java
-- Git/GitHub
-- VS Code
-- \LaTeX
 
 
 
