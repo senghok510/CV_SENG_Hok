@@ -1,4 +1,4 @@
-# Data Scientist
+# Second-year student at Ecole polytechnique
 
 #### Technical Skills: Python (PyTorch, Pandas), R, Java, Git/GitHub, VS Code, \LaTeX
 
