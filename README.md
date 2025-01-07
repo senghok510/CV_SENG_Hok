@@ -1,4 +1,4 @@
-# Second-year student at Ecole polytechnique
+# CV
 
 
 
