@@ -41,7 +41,7 @@
 - **Sports:** Soccer - Playing three times a week since 2023  
 - **Chess:** Regularly playing in free time for one year
 
-![Optimization](/assets/img/optimization.png)
+
 
 
 
